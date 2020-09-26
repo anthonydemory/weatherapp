@@ -1,5 +1,5 @@
 # weatherapp
-Ceci est une reproduction d'un site existant, ce n'est pas fonctionnel et ne montre que la page principale.
+Ceci est une reproduction d'une application existante, ce n'est pas fonctionnel et ne montre que la page principale.
 
 React Native
 
